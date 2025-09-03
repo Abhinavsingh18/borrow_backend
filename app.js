@@ -70,7 +70,7 @@ const deleteRoutes = require('./routes/delete');
 // Middlewares
 app.use(cors({
   origin: [
-    'https://borrow-liard.vercel.app',
+    'https://borrow-five.vercel.app',
     'http://localhost:3000',
     'https://pragyainvestmentcareandfinanceservice.online/'
   ],
